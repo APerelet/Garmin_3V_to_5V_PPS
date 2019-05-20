@@ -10,7 +10,7 @@ Parts required listed below. Any Part of similar spec should work, but Digikey p
 *.sch is Autodesk Eagle schematic file
 
 # Circuit Schematic
-~[Schematic not displaying](V1_DIL.jpg)
+![Schematic not displaying](V1_DIL.jpg)
 
 
 [](https://github.com/APerelet/Garmin_3V_to_5V_PPS/blob/master/V1_DIL.pdf)
