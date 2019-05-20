@@ -7,7 +7,7 @@ Parts required listed below. Any Part of similar spec should work, but Digikey p
 *.brd is Autodesk Eagle board file
 *.sch is Autodesk Eagle schematic file
 
-![Schematic] (V1_DIL.pdf)
+![Schematic](V1_DIL.pdf)
 
 ### BOM (Digikey part numbers)
 - Terminal block: 4 position, 2.54mm pin spacing (ED10563-ND)
