@@ -7,6 +7,12 @@ Parts required listed below. Any Part of similar spec should work, but Digikey p
 *.brd is Autodesk Eagle board file
 *.sch is Autodesk Eagle schematic file
 
+<object data="V1_DIL.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="V1_DIL.pdf">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="V1_DIL.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
 ![Schematic](V1_DIL.pdf)
 
 ### BOM (Digikey part numbers)
