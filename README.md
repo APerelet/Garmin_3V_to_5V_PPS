@@ -12,9 +12,6 @@ Parts required listed below. Any Part of similar spec should work, but Digikey p
 # Circuit Schematic
 ![Schematic not displaying](V1_DIL.jpg)
 
-
-[](https://github.com/APerelet/Garmin_3V_to_5V_PPS/blob/master/V1_DIL.pdf)
-
 ### BOM (Digikey part numbers)
 - Terminal block: 4 position, 2.54mm pin spacing (ED10563-ND)
 - Op-Amp: single circuit, 8-DIP (296-34453-5-ND) 
