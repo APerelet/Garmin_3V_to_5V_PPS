@@ -3,6 +3,12 @@ Avoid buying the A300 from Campbell Scientific for >100$. This cheap to print bo
 
 Parts required listed below. Any Part of similar spec should work, but Digikey part numbers are provided for the components originally used. Strongly recomended to coat board with a conformal coating to prevent accidental shorting if used without a back covering.
 
+*.zip file contains gerber files
+*.brd is Autodesk Eagle board file
+*.sch is Autodesk Eagle schematic file
+
+![Schematic] (V1_DIL.pdf)
+
 ### BOM (Digikey part numbers)
 - Terminal block: 4 position, 2.54mm pin spacing (ED10563-ND)
 - Op-Amp: single circuit, 8-DIP (296-34453-5-ND) 

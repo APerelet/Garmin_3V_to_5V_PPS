@@ -3,7 +3,7 @@
 *.m~
 
 #Eagle Version Histories
-*.br#*
+*.b#*
 *.s#*
 
 #Operating System Files
